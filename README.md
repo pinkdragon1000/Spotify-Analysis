@@ -6,4 +6,4 @@
 
 
 **View the Jupyter Notebook**
-* (link) [https://nbviewer.jupyter.org/github/pinkdragon1000/Spotify-Analysis/blob/main/Spotify%20Analysis.ipynb]
+* <a href="https://nbviewer.jupyter.org/github/pinkdragon1000/Spotify-Analysis/blob/main/Spotify%20Analysis.ipynb">Link</a>
